@@ -1,3 +1,3 @@
-# bots
+# Telegram Bot on Python
 
-nothing interesting here
+First experience in creating Telegram bot using Python
